@@ -1,4 +1,7 @@
 baseURL = 'https://github.io/wallabra/paw-mural'
 languageCode = 'en-us'
 title = 'The Paw Mural'
-theme = 'lightbi'
+theme = 'beautifulhugo'
+
+[security.exec]
+allow = ["asciidoctor"]

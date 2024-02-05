@@ -1,0 +1,21 @@
+---
+title: "Introduction"
+date: 2024-02-05T00:27:36-03:00
+draft: false
+author: wallabra
+---
+
+= Introduction
+:hide-uri-scheme:
+
+Welcome to the Paw Mural!
+
+This is the web front and community blog of the Paw Café and Paw
+Bistro community, which is spearheaded by https://wallabra.github.io[wallabra].
+
+Content here is written by members of that community, and exposes our culture.
+If you want to join us, you can enter the Paw Café (Discord) or Paw Bistro
+(Matrix) through the following links:
+
+* Paw Café https://discord.gg/FX2nDFhj
+* Paw Bistro https://matrix.to/#/#the-paw-bistro:bark.lgbt
