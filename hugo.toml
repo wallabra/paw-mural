@@ -1,4 +1,4 @@
-baseURL = 'https://github.io/wallabra/paw-mural'
+baseURL = 'https://wallabra.github.io/paw-mural'
 languageCode = 'en-us'
 title = 'The Paw Mural'
 theme = 'beautifulhugo'
