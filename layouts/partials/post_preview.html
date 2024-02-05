@@ -1,4 +1,5 @@
-{{ $authorcolor := printf "#%s" (readFile (printf "static/authorcolors/%s.txt" .Params.author)) }}
+{{ $authorcolor := (cond (ne (.Params.authorcolor) nil) .Params.authorcolor .Params.author) }}
+{{ $authorcolor := printf "#%s" (readFile (printf "static/authorcolors/%s.txt" $authorcolor)) }}
 <article class="post-preview">
     <a href="{{ .Permalink }}">
         <h2 class="post-title">{{ .Title }}</h2>
